@@ -8,7 +8,7 @@
             class: "alert-success"
         },
         info: {
-            timeout: 3000,
+            timeout: 5000,
             class: "alert-info"
         },
         warning: {
